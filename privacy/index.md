@@ -1,15 +1,17 @@
 ---
 title: Privacy policy
-description: Your privacy is important to us. We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We ensure that your personal data is managed in accordance with applicable data privacy laws.
+description: Your privacy is important to us.
 ---
 
 # Privacy policy
 
 *Last updated: September 01, 2023*
 
-In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data.
-
 FCC is committed to meeting and exceeding all relevant international, federal, and state laws and industry guidelines regarding your personal information and how it is protected. Please note that privacy laws differ widely between countries and, within countries, between states and smaller jurisdictions. FCC will follow the strictest possible rules.
+
+**We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We ensure that your personal data is managed in accordance with applicable data privacy laws.**
+
+In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data.
 
 This policy is split into sections. For your convenience, links to each of those sections is as follows:
 
