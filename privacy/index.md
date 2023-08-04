@@ -156,9 +156,9 @@ Our products and web properties are operated in the United States. If you are lo
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, FCC has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. FCC's DPA is available at [https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf).
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, FCC has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection.
 
-There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with FCC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
+There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with FCC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys products from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
 ## Changes and questions
 
