@@ -7,7 +7,7 @@ description: Your privacy is important to us.
 
 *Last updated: September 01, 2023*
 
-This Privacy policy applies only to this website and the services provided by FCC. This website may contain links to other websites not controlled by FCC, and the policies and procedures described herein do not apply to these other websites.
+This Privacy policy applies only to this website and the products and services offered by FCC. This website may contain links to other websites not controlled by FCC, and the policies and procedures described herein do not apply to these other websites.
 
 FCC is committed to meeting and exceeding all relevant international, federal, and state laws and industry guidelines regarding your personal information and how it is protected. Please note that privacy laws differ widely between countries and, within countries, between states and smaller jurisdictions. FCC will follow the strictest possible rules.
 
@@ -27,8 +27,6 @@ This policy is split into sections. For your convenience, links to each of those
 * [Location of site and data](#location-of-site-and-data)
 * [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
 * [Changes and questions](#changes-and-questions)
-
-This policy applies to all products offered by FCC.
 
 This policy applies to our handling of information about site visitors, prospective customers, and customers and authorized members (in relation to their procurement of the services and management of their relationship with FCC). We refer collectively to these categories of individuals as "you" throughout this policy.
 
