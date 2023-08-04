@@ -7,6 +7,8 @@ description: Your privacy is important to us.
 
 *Last updated: September 01, 2023*
 
+This Privacy policy applies only to this website and the services provided by FCC. This website may contain links to other websites not controlled by FCC, and the policies and procedures described herein do not apply to these other websites.
+
 FCC is committed to meeting and exceeding all relevant international, federal, and state laws and industry guidelines regarding your personal information and how it is protected. Please note that privacy laws differ widely between countries and, within countries, between states and smaller jurisdictions. FCC will follow the strictest possible rules.
 
 **We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We ensure that your personal data is managed in accordance with applicable data privacy laws.**
@@ -34,6 +36,13 @@ If you are a California resident, please [click here to see our California Notic
 
 ## What we collect and why
 
+We collect and store your personal information in order to manage your membership in the club and/or your participation in the organization's activities. Any of the following activities provide clear indication of your intent to establish a relationship with FCC, thereby allowing us to collect and store your personal information:
+* When you pay a membership fee to join or renew
+* When you register for an event
+* When you purchase product from the organization's storefront
+* When you request to be added to the organization's mailing list
+* When you log in to the website as a paid-up member to participate in the organization's activities
+
 Our guiding principle is to collect only what we need. Here’s what that means in practice:
 
 ### Identity and access
@@ -48,7 +57,7 @@ If you sign up for a paid FCC membership, you will be asked to provide your paym
 
 ### Product interactions
 
-We store on our servers the content that you upload or receive or maintain in your 37signals product accounts. This is so you can use our products as intended, for example, to create projects in Basecamp or to receive email in HEY. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
+We store on our servers the content that you upload or receive or maintain in your FCC membership accounts. This is so you can use our products as intended, for example, to create projects in Basecamp or to receive email in HEY. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
 
 ### General Geolocation data
 
@@ -60,11 +69,11 @@ We collect information about your browsing activity for analytics and statistica
 
 ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your 37signals accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides 37signals with the spam score results; we do not have access to the evaluated information.
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your FCC membership accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides FCC with the spam score results; we do not have access to the evaluated information.
 
 ### Advertising and Cookies
 
-From time ti time FCC runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the FCC marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
+From time to time FCC runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the FCC marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
 
 We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics.
 
@@ -75,6 +84,10 @@ A cookie is a piece of text stored by your browser. It may help remember login i
 When you email FCC with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
+
+### Use of data
+
+FCC uses the collected data for various purposes; to run the club, to provide services for members, to maintain accurate and complete financial records, to fulfill its legal obligations in accordance with laws, to promote the club, to strengthen and grow the club, to communicate with you about news and activities, and to advocate for issues that are important to members.
 
 ## When we access or disclose your information
 
@@ -109,7 +122,7 @@ At FCC, we strive to apply the same data rights to all customers, regardless of 
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
 * **Right to Correction.** You have the right to request correction of your personal information.
-* **Right to Erasure / “To Be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using 37signals services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+* **Right to Erasure / “To Be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using FCC services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of your personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
@@ -141,7 +154,7 @@ We keep your information for the time necessary for the purposes for which it is
 
 ## Location of site and data
 
-Our products and other web properties are operated in the United States. If you are located in the European Union, UK, or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
+Our products and web properties are operated in the United States. If you are located in the European Union, UK, or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
 
 ## When transferring personal data from the EU
 
@@ -153,4 +166,4 @@ There are also a few ad hoc cases where EU personal data may be transferred to t
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@37signals.com](mailto:privacy@37signals.com) and we’ll be happy to try to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@signals.com](mailto:privacy@signals.com) and we’ll be happy to try to answer them!
