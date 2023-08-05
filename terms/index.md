@@ -1,21 +1,23 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a 37signals product.
+description: All the terms that you agree to when you sign up for a Flamingo Cricket Club product.
 ---
 
 # Terms of Service
 
-*Last updated: January 6, 2023*
+*Last updated: September 1, 2023*
 
-From everyone at 37signals, thank you for using our products! We build them to help you do your best work. There are millions of people using 37signals products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+The website flamingocricket.club is owned and operated by Flamingo Cricket Club. We are a Public Benefit Corporation registered in Delaware, US.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60). We spun off Highrise HQ, LLC in the past, but it has since rejoined 37signals LLC.
+By accessing the website, you agree to be bound by the terms of service, including our Privacy Policy. If you do not agree with the terms of service, do not use the website. These Terms of Service apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content.
 
-When we say “Services”, we mean our websites, including basecamp.com, hey.com, and 37signals.com, and any product created and maintained by 37signals LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60).
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Basecamp 4](https://basecamp.com/about/policies/ownership-bc3), [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership), [Basecamp Classic](https://classic.basecamp-help.com/article/526-account-ownership), [HEY for Domains](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
+When we say “Services”, we mean our websites, including flamingocricket.club, and any product or service created and maintained by Flamingo Cricket Club.
 
-We may update these Terms of Service ("Terms") in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+When we say “You” or “your”, we are referring to the people, teams or organizations that own an account with one or more of our Services.
+
+We may update these Terms of Service ("Terms") in the future. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms. There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
 
@@ -23,18 +25,17 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password and for ensuring that any of your users do the same. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend all users set up [two-factor authentication](https://m.signalvnoise.com/basecamp-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
+1. You are responsible for maintaining the security of your account and password and for ensuring that any of your users do the same. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md), and you may not permit any of your users to do so, either.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
 ## Payment, Refunds, and Plan Changes
 
-1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
-2. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
-3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For other upgrades or downgrades in plan level, the new rate starts from the next billing cycle.
-4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-5. We process refunds according to our [Fair Refund policy](../refund/index.md).
+1. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
+2. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
+3. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
+4. We process refunds according to our [Fair Refund policy](../refund/index.md).
 
 ## Cancellation and Termination
 
@@ -51,17 +52,16 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 
 ## Uptime, Security, and Privacy
 
-1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis. We do not offer service-level agreements for most of our Services — here’s [the one exception](https://basecamp.com/about/policies/sla) — but do take uptime of our applications seriously. Visit [https://www.37status.com](https://www.37status.com) to see the status of our Services.
-2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we’ll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
-3. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
+1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis.
+2. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet. There are some edge cases where we may send your data through our network unencrypted. Please refer to our [Security Overview](../security/index.md) for full details and our [Security Response page](../security/response/index.md) for how to report a security incident or threat.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that 37signals may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
   - **To help you with support requests you make.** We’ll ask for express consent before accessing your account.
   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause to prevent the errors from recurring.
-  - **To safeguard 37signals.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
+  - **To safeguard FLamingo Cricket Club.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
   - **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act, or in limited circumstances in the event of an emergency request. If a non-US authority approaches 37signals for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If 37signals is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
 
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Basecamp](../privacy/basecamp-subprocessors/index.md), [HEY](../privacy/hey-subprocessors/index.md), [Highrise](../privacy/highrise-subprocessors/index.md), [Campfire](../privacy/campfire-subprocessors/index.md), and [Backpack](../privacy/backpack-subprocessors/index.md), as well as a list of [Company processors](../privacy/company-processors/index.md).
-6. Under the California Consumer Privacy Act (“CCPA”), 37signals is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms, the [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
+6. Under the California Consumer Privacy Act (“CCPA”), Flamingo Cricket Club is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms, the [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
 7. These Terms incorporate the [37signals Data Processing Addendum (“DPA”)](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf) when the EU General Data Protection Regulation (“GDPR”) or United Kingdom General Data Protection Regulation (“UK GDPR”) applies to your use of 37signals Services to process Customer Data as defined in the DPA. The DPA linked above supersedes any previously agreed data processing addendum between you and 37signals LLC relating to your use of the 37signals Services.
 
 ## Copyright and Content Ownership
