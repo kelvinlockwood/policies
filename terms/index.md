@@ -1,19 +1,19 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a Flamingo Cricket Club product.
+description: All the terms that you agree to when you sign up for a FCC product.
 ---
 
 # Terms of Service
 
 *Last updated: September 1, 2023*
 
-The website flamingocricket.club is owned and operated by Flamingo Cricket Club. We are a Public Benefit Corporation registered in Delaware, US.
+The website fc.club is owned and operated by FCC. We are a Public Benefit Corporation registered in Delaware, US.
 
 By accessing the website, you agree to be bound by the terms of service, including our Privacy Policy. If you do not agree with the terms of service, do not use the website. These Terms of Service apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60).
 
-When we say “Services”, we mean our websites, including flamingocricket.club, and any product or service created and maintained by Flamingo Cricket Club.
+When we say “Services”, we mean our websites, including fc.club, and any product or service created and maintained by FCC.
 
 When we say “You” or “your”, we are referring to the people, teams or organizations that own an account with one or more of our Services.
 
@@ -57,11 +57,11 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that 37signals may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
   - **To help you with support requests you make.** We’ll ask for express consent before accessing your account.
   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause to prevent the errors from recurring.
-  - **To safeguard FLamingo Cricket Club.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
+  - **To safeguard FCC.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
   - **To the extent required by applicable law.** As a US company with all data infrastructure located in the US, we only preserve or share customer data if compelled by a US government authority with a legally binding order or proper request under the Stored Communications Act, or in limited circumstances in the event of an emergency request. If a non-US authority approaches 37signals for assistance, our default stance is to refuse unless the order has been approved by the US government, which compels us to comply through procedures outlined in an established mutual legal assistance treaty or agreement mechanism. If 37signals is audited by a tax authority, we only share the bare minimum billing information needed to complete the audit.
 
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. You can see a list of all subprocessors who handle personal data for [Basecamp](../privacy/basecamp-subprocessors/index.md), [HEY](../privacy/hey-subprocessors/index.md), [Highrise](../privacy/highrise-subprocessors/index.md), [Campfire](../privacy/campfire-subprocessors/index.md), and [Backpack](../privacy/backpack-subprocessors/index.md), as well as a list of [Company processors](../privacy/company-processors/index.md).
-6. Under the California Consumer Privacy Act (“CCPA”), Flamingo Cricket Club is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms, the [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
+6. Under the California Consumer Privacy Act (“CCPA”), FCC is a “service provider”, not a “business” or “third party”, with respect to your use of the Services. That means we process any data you share with us only for the purpose you signed up for and as described in these Terms, the [Privacy policy](../privacy/index.md), and [other policies](../index.md). We do not retain, use, disclose, or sell any of that information for any other commercial purposes unless we have your explicit permission. And on the flip-side, you agree to comply with your requirements under the CCPA and not use Basecamp’s Services in a way that violates the regulations.
 7. These Terms incorporate the [37signals Data Processing Addendum (“DPA”)](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf) when the EU General Data Protection Regulation (“GDPR”) or United Kingdom General Data Protection Regulation (“UK GDPR”) applies to your use of 37signals Services to process Customer Data as defined in the DPA. The DPA linked above supersedes any previously agreed data processing addendum between you and 37signals LLC relating to your use of the 37signals Services.
 
 ## Copyright and Content Ownership
