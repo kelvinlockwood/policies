@@ -33,7 +33,7 @@ If you are a California resident, please [click here to see our California Notic
 
 ## What we collect and why
 
-We collect and store your personal information in order to manage your membership in the club and/or your participation in the organization's activities. Any of the following activities provide clear indication of your intent to establish a relationship with FCC, thereby allowing us to collect and store your personal information:
+We collect and store your personal information in order to manage your membership in the club and or your participation in the organization's activities. Any of the following activities provide clear indication of your intent to establish a relationship with FCC, thereby allowing us to collect and store your personal information:
 * When you pay a membership fee to join or renew
 * When you register for an event
 * When you purchase product from the organization's storefront
@@ -54,15 +54,11 @@ If you sign up for a paid FCC membership, you will be asked to provide your paym
 
 ### Product interactions
 
-We store on our servers the content that you upload or receive or maintain in your FCC membership accounts. This is so you can use our products as intended, for example, to create projects in Basecamp or to receive email in HEY. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
-
-### General Geolocation data
-
-For most of our products, we log the full IP address used to sign up a product account and retain that for use in mitigating future spammy signups. We also log all account access by full IP address for security and fraud prevention purposes, and we keep this login data for as long as your product account is active.
+Content that you upload or receive or maintain in your FCC membership accounts is stored by Outseta LLC, a third-party membership management service provider. This is so you can use our products and services as intended. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
 
 ### Website interactions
 
-We collect information about your browsing activity for analytics and statistical purposes such as conversion rate testing and experimenting with new product designs. This includes, for example, your browser and operating system versions, your IP address, which web pages you visited and how long they took to load, and which website referred you to us. If you have an account and are signed in, these web analytics data are tied to your IP address and user account until your account is no longer active. The web analytics we use are described further in the Advertising and Cookies section.
+We collect information about your browsing activity for analytics and statistical purposes such as conversion rate testing and experimenting with new product designs. This includes, for example, your browser and operating system versions, your IP address, which web pages you visited and how long they took to load, and which website referred you to us. If you have an account and are signed in, these web analytics data are tied to your IP address and user account until your account is no longer active. The web analytics we use are described further in the Advertising and Cookies section. We may also log account access by full IP address for security and fraud prevention purposes, and keep this login data for as long as your account is active.
 
 ### Anti-bot assessments
 
@@ -72,7 +68,11 @@ We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications 
 
 From time to time FCC runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the FCC marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
 
-We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics.
+We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications.
+
+We want to process as little personal information as possible when you use our website. That's why we've chosen Fathom Analytics for our website analytics, which doesn't use cookies and complies with the GDPR, ePrivacy (including PECR), COPPA and CCPA. Using this privacy-friendly website analytics software, your IP address is only briefly processed, and we (running this website) have no way of identifying you. As per the CCPA, your personal information is de-identified. You can read more about this on Fathom Analytics' website.
+
+The purpose of us using this software is to understand our website traffic in the most privacy-friendly way possible so that we can continually improve our website and business. The lawful basis as per the GDPR is "Article 6(1)(f); where our legitimate interests are to improve our website and business continually." As per the explanation, no personal data is stored over time.
 
 A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although some aspects of our service may not function properly if you turn cookies off.
 
@@ -82,7 +82,7 @@ When you email FCC with a question or to ask for help, we keep that corresponden
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
-### Use of data
+## Use of data
 
 FCC uses the collected data for various purposes; to run the club, to provide services for members, to maintain accurate and complete financial records, to fulfill its legal obligations in accordance with laws, to promote the club, to strengthen and grow the club, to communicate with you about news and activities, and to advocate for issues that are important to members.
 
@@ -129,7 +129,7 @@ At FCC, we strive to apply the same data rights to all customers, regardless of 
 
 Many of these rights can be exercised by signing in and updating your account information. Please note that certain information may be exempt from such requests under applicable law. For example, we need to retain certain information in order to provide our services to you.
 
-In some cases, we also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. If we are unable to verify you, we may be unable to respond to your requests. If you have questions about exercising these rights or need assistance, please contact us at [privacy@37signals.com](mailto:privacy@37signals.com) or at 37signals LLC, 2045 W Grand Ave Ste B, PMB 53289, Chicago, IL 60612 USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
+In some cases, we also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. If we are unable to verify you, we may be unable to respond to your requests. If you have questions about exercising these rights or need assistance, please contact us at [mail@fcc.club](mailto:mail@fcc.club) or at FCC, 411 W Monroe St, Mailbox #2, Austin, TX 78704. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
 
 Depending on applicable law, you may have the right to appeal our decision to deny your request, if applicable. We will provide information about how to exercise that right in our response denying the request. You also have the right to lodge a complaint with a supervisory authority. If you are in the EU or UK, you can contact your data protection authority to file a complaint or learn more about local privacy laws.
 
@@ -163,4 +163,4 @@ There are also a few ad hoc cases where EU personal data may be transferred to t
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@signals.com](mailto:privacy@signals.com) and we’ll be happy to try to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [mail@fcc.club](mailto:mail@fcc.club) and we’ll be happy to try to answer them!
