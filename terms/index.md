@@ -72,21 +72,25 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 4. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
 5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission of the Company.
 
+## Community Guidelines
+
+FCC connects cricket fans around the world. To make sure all of our members have a positive experience interacting on our website, we have Community Guidelines to outline what we do and do not allow on our website and services.
+1. Keep it respectful, inclusive and friendly: The purpose of our membership community is to connect you to one another, and to have a little fun along the way. We may remove content that violates our guidelines, including comments or media that contains:-
+* Hateful activities or language directed at individuals or groups (this includes any negative stereotypes, prejudices or attacks)
+* Irrelevant or non-purposeful material
+* Spam (this includes linking to websites that are unsafe, deceptive, untrustworthy, unoriginal or facilitate spam)
+* Explicit content (this includes content that risks harm to people or animals, including sexual, physical or financial exploitation)
+* Misinformation (this includes content that may harm individual or public safety or trust)
+* Harassment or privacy violations
+2. Respect one another’s privacy: Please don’t post any personal information, photos or videos that you’re not authorised to share. We endeavour to remove any private information that is shared as quickly as possible.
+3. Be proactive: If you do spot a post or comment that breaks our community guidelines, please report it. You can do this by clicking on the little arrow in the top-right hand corner of a post and clicking on the ‘report’ button. If you’d like to discuss anything in more detail, then please get in touch via email, and we’ll do our best to help mail@fc.club
+You’ll still be able to see someone's account, posts and comments after you report them. Negative and distasteful comments are luckily few and far between - but rest assured we are here to help and step-in if the need arises.
+
 ## Features and Bugs
 
 We design our Services with care, based on our own experience and the experiences of customers who share their time and feedback. However, there is no such thing as a service that pleases everybody. We make no guarantees that our Services will meet your specific requirements or expectations.
 
 We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don’t guarantee completely error-free Services.
-
-## Services Adaptations and API Terms
-
-We offer Application Program Interfaces (“API”s) for some of our Services (currently Basecamp, Highrise, Campfire, and Backpack). Any use of the API, including through a third-party product that accesses the Services, is bound by these Terms plus the following specific terms:
-
-1. You expressly understand and agree that we are not liable for any damages or losses resulting from your use of the API or third-party products that access data via the API.
-2. Third parties may not access and employ the API if the functionality is part of an application that remotely records, monitors, or reports a Service user’s activity *other than time tracking*, both inside and outside the applications. The Company, in its sole discretion, will determine if an integration service violates this bylaw. A third party that has built and deployed an integration for the purpose of remote user surveillance will be required to remove that integration.
-3. Abuse or excessively frequent requests to the Services via the API may result in the temporary or permanent suspension of your account’s access to the API. The Company, in its sole discretion, will determine abuse or excessive usage of the API. If we need to suspend your account’s access, we will attempt to warn the account owner first. If your API usage could or has caused downtime, we may cut off access without prior notice.
-
-Some third-party providers have created integrations between our Services and theirs. You can find some of those integrations for Basecamp at [https://basecamp.com/extras](https://basecamp.com/extras) and for Highrise at [https://highrisehq.com/extras](https://highrisehq.com/extras). We are not liable or accountable for any of these third-party integrations.
 
 ## Liability
 
