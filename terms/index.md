@@ -28,7 +28,8 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 1. You are responsible for maintaining the security of your account and password and for ensuring that any of your users do the same. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md), and you may not permit any of your users to do so, either.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
-4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+4. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
 ## Payment, Refunds, and Plan Changes
 
