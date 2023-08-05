@@ -17,7 +17,6 @@ In this policy, we lay out: what data we collect and why; how your data is handl
 
 This policy is split into sections. For your convenience, links to each of those sections is as follows:
 
-* [Privacy policy](#privacy-policy)
 * [What we collect and why](#what-we-collect-and-why)
 * [When we access or disclose your information](#when-we-access-or-disclose-your-information)
 * [Your rights with respect to your information](#your-rights-with-respect-to-your-information)
@@ -89,7 +88,7 @@ FCC uses the collected data for various purposes; to run the club, to provide se
 
 ## When we access or disclose your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](https://basecamp.com/about/policies/privacy/basecamp-subprocessors/), [HEY](https://basecamp.com/about/policies/privacy/hey-subprocessors/), [Highrise](https://basecamp.com/about/policies/privacy/highrise-subprocessors/), [Campfire](https://basecamp.com/about/policies/privacy/campfire-subprocessors/), [Backpack](https://basecamp.com/about/policies/privacy/backpack-subprocessors/). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://basecamp.com/about/policies/privacy/company-processors/).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our website and provide the membership services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](https://basecamp.com/about/policies/privacy/basecamp-subprocessors/), [HEY](https://basecamp.com/about/policies/privacy/hey-subprocessors/), [Highrise](https://basecamp.com/about/policies/privacy/highrise-subprocessors/), [Campfire](https://basecamp.com/about/policies/privacy/campfire-subprocessors/), [Backpack](https://basecamp.com/about/policies/privacy/backpack-subprocessors/). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://basecamp.com/about/policies/privacy/company-processors/).
 
 We may disclose your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Gmail email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account.
 
