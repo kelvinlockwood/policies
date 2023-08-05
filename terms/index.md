@@ -32,10 +32,13 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 
 ## Payment, Refunds, and Plan Changes
 
-1. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
-2. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
-3. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-4. We process refunds according to our [Fair Refund policy](../refund/index.md).
+1. Our membership service is billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a quarterly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
+2. At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or FCC cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting FCC customer support team.
+3. A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide FCC with accurate and complete billing information including full name, address, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize FCC to charge all Subscription fees incurred through your account to any such payment instruments.
+4. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
+5. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
+6. Should automatic billing fail to occur for any reason, FCC will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+7. We process refunds according to our [Fair Refund policy](../refund/index.md).
 
 ## Cancellation and Termination
 
@@ -47,8 +50,8 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 
 ## Modifications to the Service and Prices
 
-1. We make a promise to our customers to support our Services [until the end of the Internet](../until-the-end-of-the-internet/index.md). That means when it comes to security, privacy, and customer support, we will continue to maintain any legacy Services. Sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
-2. Sometimes we change the pricing structure for our products. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
+1. Sometimes it becomes operationally impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
+2. FCC, in its sole discretion and at any time, may change the pricing structure for our membership service. When we do that, we tend to exempt existing customers from those changes. However, we may choose to change the prices for existing customers. If we do so, we will give at least 90 days notice and will notify you via the email address on record. We may also post a notice about changes on our website.
 
 ## Uptime, Security, and Privacy
 
