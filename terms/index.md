@@ -7,11 +7,11 @@ description: All the terms that you agree to when you sign up for a FCC product.
 
 *Last updated: September 1, 2023*
 
-The website fc.club is owned and operated by FCC. We are a Public Benefit Corporation incorporated in Delaware, US.
+The website fc.club is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
 
 By accessing the website, you agree to be bound by the terms of service, including our Privacy Policy. If you do not agree with the terms of service, do not use the website. These Terms of Service apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60).
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to FCC.
 
 When we say “Services”, we mean our websites, including fc.club, and any product or service created and maintained by FCC.
 
