@@ -46,6 +46,8 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 When you sign up for a FCC product, we ask for identifying information such as your name and email address. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
 
+You may also have the option to sign up for FCC using a Google account. We will ask for permission to access basic information from your Google account, such as your userID, full name, email address, and profile picture. You can choose to stop sharing that information with us at any time by going to Google to remove FCC’s access to that account and your ability to use it to log in to FCC. As applicable to you, please consult the Google privacy policies to learn more about that.
+
 We’ll never sell your personal information to third parties, and we won’t use your name in marketing statements without your permission either.
 
 ### Billing information
@@ -64,17 +66,19 @@ We collect information about your browsing activity for analytics and statistica
 
 We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your FCC membership accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides FCC with the spam score results; we do not have access to the evaluated information.
 
-### Advertising and Cookies
+### Cookies
 
-From time to time FCC runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the FCC marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
-
-We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications.
+FCC uses cookies and other tracking technologies to provide our service. We use persistent first-party cookies and some third-party cookies to store certain preferences. Cookies are not strictly necessary for the website to work but they can provide you with a better browsing experience.
 
 We want to process as little personal information as possible when you use our website. That's why we've chosen Fathom Analytics for our website analytics, which doesn't use cookies and complies with the GDPR, ePrivacy (including PECR), COPPA and CCPA. Using this privacy-friendly website analytics software, your IP address is only briefly processed, and we (running this website) have no way of identifying you. As per the CCPA, your personal information is de-identified. You can read more about this on Fathom Analytics' website.
 
 The purpose of us using this software is to understand our website traffic in the most privacy-friendly way possible so that we can continually improve our website and business. The lawful basis as per the GDPR is "Article 6(1)(f); where our legitimate interests are to improve our website and business continually." As per the explanation, no personal data is stored over time.
 
-A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although some aspects of our service may not function properly if you turn cookies off.
+A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although some aspects of our service may not function as intended if you turn cookies off.
+
+### Advertising
+
+From time to time FCC runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the FCC marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
 
 ### Voluntary correspondence
 
