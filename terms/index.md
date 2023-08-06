@@ -96,12 +96,20 @@ We design our Services with care, based on our own experience and the experience
 
 We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don’t guarantee completely error-free Services.
 
-## Liability
+## Warranty disclaimer
+
+FCC is provided “as is” and without warranty of any kind. Any warranty of merchantability, fitness for a particular purpose, non-infringement, and any other warranty, whether express or implied, is excluded and disclaimed to the greatest extent permitted by law. The disclaimers of warranty under this clause also apply to our subsidiaries, affiliates, and third-party service providers.
+
+## Limitation of liability
 
 We mention liability throughout these Terms but to put it all in one section:
 
-***You expressly understand and agree that the Company shall not be liable, in law or in equity, to you or to any third party for any direct, indirect, incidental, lost profits, special, consequential, punitive or exemplary damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if the Company has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Services; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Services; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; (v) or any other matter relating to these Terms or the Services, whether as a breach of contract, tort (including negligence whether active or passive), or any other theory of liability.***
+***To the greatest extent permitted by law, we are not liable to you for any incidental, consequential, or punitive damages arising out of these terms, or your use or attempted use of FCC. To the greatest extent permitted by law, our liability for damages is limited to the amount of money we have earned through your use of FCC. We are specifically not liable for loss associated with unfulfilled offerings and benefits and from losses caused by conflicting contractual agreements. For this clause, “we” and “our” is defined to include our subsidiaries, affiliates, officers, directors, employees, agents, and third-party service providers.***
 
-In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general [giving a damn](https://basecamp.com/about). If you choose to use our Services, thank you for betting on us.
+In other words: if you lose money as a result of using FCC, any payment to you is limited to the amount of money we have earned through your use of FCC.
+
+## Dispute resolution
+
+We encourage you to contact us if you have an issue. If a dispute does arise out of these terms or in relation to your use of FCC, then the dispute will be resolved in the federal or state courts located in Delaware. Both parties consent to the exclusive jurisdiction and venue of the Delaware courts for the purpose of resolving any such dispute. Delaware law, excluding its conflict of law provisions, governs these terms, all other FCC policies, and any dispute that arises between you and FCC.
 
 If you have a question about any of these Terms, please [contact our Support team]({{ site.email_support }}).
