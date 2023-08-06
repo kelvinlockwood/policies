@@ -48,6 +48,8 @@ When you sign up for a FCC product, we ask for identifying information such as y
 
 You may also have the option to sign up for FCC using a Google account. We will ask for permission to access basic information from your Google account, such as your userID, full name, email address, and profile picture. You can choose to stop sharing that information with us at any time by going to Google to remove FCC’s access to that account and your ability to use it to log in to FCC. As applicable to you, please consult the Google privacy policies to learn more about that.
 
+If your account is deactivated or disabled, some of your information and the content you have provided will remain in order to allow other users to make full use of the Services. For example, we continue to display content you provided, but when requested details that can identify you will be removed.
+
 We’ll never sell your personal information to third parties, and we won’t use your name in marketing statements without your permission either.
 
 ### Billing information
