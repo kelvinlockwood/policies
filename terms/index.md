@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a FCC product.
 
 # Terms of Service
 
-*Last updated: September 1, 2023*
+*Last updated: September 01, 2023*
 
 The website fc.club is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
 
