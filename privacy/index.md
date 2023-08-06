@@ -90,13 +90,13 @@ We also store information you may volunteer, for example, written responses to s
 
 ## Use of data
 
-FCC uses the collected data for various purposes; to run the club, to provide services for members, to maintain accurate and complete financial records, to fulfill its legal obligations in accordance with laws, to promote the club, to strengthen and grow the club, to communicate with you about news and activities, and to advocate for issues that are important to members.
+In summary, FCC uses the collected data to run the club, to provide services for members, to maintain accurate and complete financial records, to fulfill its legal obligations in accordance with laws, to promote the club, to strengthen and grow the club, to communicate with you about news and activities, and to advocate for issues that are important to members.
 
 ## When we access or disclose your information
 
 **To provide products or services you’ve requested**. We use some third-party processors to help run our website and provide the membership services to you. We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://basecamp.com/about/policies/privacy/company-processors/).
 
-No FCC human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see "When required under applicable law" below).
+No FCC employee looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see "When required under applicable law" below).
 
 **To exclude you from seeing our ads.** Where permissible by law and if you have a FCC membership account, we may disclose a one-way hash of your email address with ad companies to exclude you from seeing our ads.
 
