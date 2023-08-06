@@ -9,23 +9,23 @@ description: All the terms that you agree to when you sign up for a FCC product.
 
 The website fc.club is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
 
-By accessing the website, you agree to be bound by the terms of service, including our Privacy Policy. If you do not agree with the terms of service, do not use the website. These Terms of Service apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content.
+By accessing the website, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. These Terms apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content. If you do not agree with the Terms, do not use the website. 
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to FCC.
+* When we say “Company”, “we”, “our”, or “us” in this document, we are referring to FCC.
 
-When we say “Services”, we mean our websites, including fc.club, and any product or service created and maintained by FCC.
+* When we say “Services”, we mean our websites, including fc.club, and any product or service created and maintained by FCC.
 
-When we say “You” or “your”, we are referring to the people, teams or organizations that own an account with one or more of our Services.
+* When we say “You” or “your”, we are referring to the people, teams or organizations that own an account with one or more of our Services.
 
-We may update these Terms of Service ("Terms") in the future. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+We may update these Terms and may do so without notice to you. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
-When you use our Services, and or purchase any goods through the website, you are agreeing to the latest Terms. There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
+**When you use our Services, and or purchase any goods through the website, you are agreeing to the latest Terms.** There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
 
-If you violate any of the Terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://basecamp.com/about/team), [how we work](https://basecamp.com/handbook), and keeping an open door to [your feedback]({{ site.email_support }}).
+If you violate any of the Terms, we may terminate your account.
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password and for ensuring that any of your users do the same. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md), and you may not permit any of your users to do so, either.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
 4. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
