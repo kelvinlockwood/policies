@@ -18,10 +18,10 @@ In this policy, we lay out: what data we collect and why; how your data is handl
 This policy is split into sections. For your convenience, links to each of those sections is as follows:
 
 * [What we collect and why](#what-we-collect-and-why)
+* [Use of data](#use-of-data)
 * [When we access or disclose your information](#when-we-access-or-disclose-your-information)
 * [Your rights with respect to your information](#your-rights-with-respect-to-your-information)
 * [How we secure your data](#how-we-secure-your-data)
-* [What happens when you delete content in your product accounts](#what-happens-when-you-delete-content-in-your-product-accounts)
 * [Data retention](#data-retention)
 * [Location of site and data](#location-of-site-and-data)
 * [When transferring personal data from the EU](#when-transferring-personal-data-from-the-eu)
