@@ -23,18 +23,19 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 
 *Via fc.club, FCC operates a membership service and online store. The terms and conditions that are relevant to the supply of physical goods can be found in the [Online Store](#online-store) section of these Terms.*
 
-## Account Terms
+## Membership Accounts
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+1. A Member is any individual who is paying recurring Subscription fees for a FCC Membership, for personal, non-commercial use.
+1. You are responsible for maintaining the security of your Membership account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md), and you may not permit any of your users to do so, either.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
-4. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+4. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your Membership account.
 5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 6. By purchasing products or services you represent that you have reached the age of majority (which in most states is 18 years old) and have the legal capacity to enter into a contract. If you are under the age of majority or cannot lawfully enter into a contract, you must have your parent or guardian review these Terms and the Privacy Policy, and register or place an order on your behalf.
 
 ## Payment, Refunds, and Plan Changes
 
-1. Our Membership service is billed on a subscription basis ("Subscription(s)"). Billing occurs at the beginning of the Membership cycle and provides access for one quarter or one year after that, as applicable.
+1. Our Membership service is billed on a subscription basis. Billing occurs at the beginning of the Membership cycle and provides access for one quarter or one year after that, as applicable.
 2. At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or FCC cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting FCC customer support team.
 3. A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide FCC with accurate and complete billing information including full name, address, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize FCC to charge all Subscription fees incurred through your account to any such payment instruments.
 4. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
