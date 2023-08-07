@@ -37,7 +37,7 @@ If you violate any of the Terms, we may terminate your account.
 2. At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or FCC cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting FCC customer support team.
 3. A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide FCC with accurate and complete billing information including full name, address, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize FCC to charge all Subscription fees incurred through your account to any such payment instruments.
 4. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
-5. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
+5. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. Otherwise, you are responsible for payment of all taxes, levies, or duties.
 6. Should automatic billing fail to occur for any reason, FCC will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 7. We process refunds according to our [Fair Refund policy](../refund/index.md).
 
@@ -70,11 +70,13 @@ If you violate any of the Terms, we may terminate your account.
 
 ## Copyright and Content Ownership
 
-1. All content posted on the Services must comply with U.S. copyright law. We provide details on [how to file a copyright infringement claim](../copyright/index.md).
-2. You give us a limited license to use the content posted by you and your users in order to provide the Services to you, but we claim no ownership rights over those materials. All materials you submit to the Services remain yours.
+1. All content posted on the Services must comply with U.S. copyright law.
+2. You give us a limited license to use the content posted by you in order to provide the Services to you, but we claim no ownership rights over those materials. All materials you submit to the Services remain yours.
 3. We do not pre-screen content, but we reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
-5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission of the Company.
+4. You agree not to make available creations on the Service that infringe others’ intellectual property or proprietary rights. FCC reserves the right to remove creations and other material that violate FCC’s terms and policies. We respond to compliant notifications of claimed copyright infringement and have adopted and reasonably implemented a policy for terminating, in appropriate circumstances, the accounts of members who are the subject of repeated compliant notifications of claimed copyright infringement or other evidence that suggests a pattern of repeat infringement. The process for reporting or responding to notifications of claimed copyright infringement can be made available on request.
+5. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
+6. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission of the Company.
+7. We welcome your feedback on FCC products and services, including any early-access, beta, or test features to which you’ve been given access, and your help in identifying any problems, bugs, and defects. You agree that any suggestions, comments, ideas, bug reports, or suggested improvements that you provide to us will be fully owned by us so that we can use them to improve FCC and thereby better help the community of members.
 
 ## Community Guidelines
 
@@ -87,7 +89,7 @@ FCC connects cricket fans around the world. To make sure all of our members have
 * Misinformation (this includes content that may harm individual or public safety or trust)
 * Harassment or privacy violations
 2. Respect one another’s privacy: Please don’t post any personal information, photos or videos that you’re not authorised to share. We endeavour to remove any private information that is shared as quickly as possible.
-3. Be proactive: If you do spot a post or comment that breaks our community guidelines, please report it. You can do this by clicking on the little arrow in the top-right hand corner of a post and clicking on the ‘report’ button. If you’d like to discuss anything in more detail, then please get in touch via email, and we’ll do our best to help mail@fc.club
+3. Be proactive: If you do spot a post or comment that breaks our community guidelines, please report it. If you’d like to discuss anything in more detail, then please get in touch via email, and we’ll do our best to help [mail@fcc.club](mailto:mail@fcc.club).
 You’ll still be able to see someone's account, posts and comments after you report them. Negative and distasteful comments are luckily few and far between - but rest assured we are here to help and step-in if the need arises.
 
 ## Features and Bugs
@@ -116,4 +118,4 @@ In other words: if you lose money as a result of using FCC, any payment to you i
 
 We encourage you to contact us if you have an issue. If a dispute does arise out of these terms or in relation to your use of FCC, then the dispute will be resolved in the federal or state courts located in Delaware. Both parties consent to the exclusive jurisdiction and venue of the Delaware courts for the purpose of resolving any such dispute. Delaware law, excluding its conflict of law provisions, governs these terms, all other FCC policies, and any dispute that arises between you and FCC.
 
-If you have a question about any of these Terms, please [contact our Support team]({{ site.email_support }}).
+If you have a question about any of these Terms, please contact [mail@fcc.club](mailto:mail@fcc.club).
