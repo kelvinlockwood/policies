@@ -21,6 +21,8 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 
 **When you use our Services, and or purchase any goods through the website, you are agreeing to the latest Terms.** There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.** If you violate any of the Terms, we may terminate your account.
 
+Via flamingocricket.club, Flamingo Cricket Club operates a membership service and online store, the terms and conditions that are relevant to the supply of physical goods can be found in this section: 
+
 ## Account Terms
 
 1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
@@ -99,7 +101,74 @@ We also test all of our features extensively before shipping them. As with any s
 
 ## COPPA
 
-The Children's Online Privacy Protection Act ("COPPA") requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly collect or solicit personally identifiable information from children under 13. If you are a child under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn we have collected personal information from a child under 13 (or under the age of 16 in certain jurisdictions, such as EU member countries), we will delete that information as quickly as possible. 
+The Children's Online Privacy Protection Act ("COPPA") requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly collect or solicit personally identifiable information from children under 13. If you are a child under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn we have collected personal information from a child under 13 (or under the age of 16 in certain jurisdictions, such as EU member countries), we will delete that information as quickly as possible.
+
+## Online Store
+
+### Placing orders with us
+By placing an order with us you are offering to purchase a product on and subject to these terms and conditions. All orders are subject to availability and confirmation of the order price.
+
+### How we will accept your order
+Our acceptance of your order will take place when we email you to accept it, at which point a contract will come into existence between you and us. 
+
+### If we cannot accept your order
+If we are unable to accept your order, we will inform you of this and will not charge you for the product. This might be because the product is out of stock, because of unexpected limits on our resources which we could not reasonably plan for, because we have identified an error in the price or description of the product or because we are unable to meet a delivery deadline you have specified. 
+
+### Your order number
+We will assign an order number to your order and tell you what it is when we accept your order. It will help us if you can tell us the order number whenever you contact us about your order.
+
+### Please be mindful of our global nature
+Flamingo Cricket Club has a global outlook and audience, so we accept orders from and deliver to addresses outside of the US. However, we source and ship our products from various locations around the world and this means some of the products listed in our online store may not be available to specific regions and countries.
+
+### Import duties and taxes
+When ordering products for delivery you may be subject to import duties and taxes, which are levied once the products reach the specified delivery location. Any additional charges for customs and/or import clearance and other handling charges must be paid by you, as we have no control over these charges. 
+
+Customs policies vary widely from country to country, so you should contact your local customs office for further information. 
+
+Additionally, please note that when ordering from us, you are considered the importer of record and will be responsible for all entry documents required by customs border protection and for the product classification and payment of duties, as well as any other import obligations and you must comply with all laws and regulations of the country in which you are receiving the products. 
+
+Your privacy is important to us and we would like our international customers to be aware that cross-border deliveries may be subject to opening and inspection by customs authorities.
+
+A list of countries that we do accept orders from and deliver to can be found at the online checkout area of our website and may be amended from time to time.
+
+### Delivery
+All products are packaged with care and safety to avoid damage, with materials that are considerate to their impact on the planet.
+
+Delivery times vary. Please note all delivery dates are estimates and are not a guarantee that the product will be delivered on the specified date.
+
+Risk of loss and title for Products purchased from FCC pass to you upon delivery of such Products to the carrier. You are responsible for filing any claims with carriers for damaged or lost shipments.
+
+FCC will not be liable for any loss or expenses which you may incur because of any delay in the delivery of your order.
+
+### Delivery costs
+We offer a simple worldwide delivery charge of $10. (Members are entitled to a 15 or 25% discount)
+
+We waive the delivery charge for orders over $100.
+
+### Cancellations
+Cancellations of orders must be done within 24 hours of purchase. If the purchase has already left our premises we are unable to accept cancellation of the order.
+
+### Returns
+FCC accepts returns of unworn, unwashed, undamaged or defective merchandise purchased online. Please note, return delivery fees are the responsibility of the customer. In order to offer our service, reduce waste, and responsibly recycle or refurbish returned items, we charge a restocking fee of $10. This will be deducted from your refund for most mailed returns.
+
+Returns made within 30 days of the order delivery date will be issued a refund to the original form of payment. Refunds will be issued within 2 weeks of the completion of FCC’s return process. This process may take several weeks to complete.
+
+### Returns Process
+To return items, please send to:
+
+FCC
+411 W Monroe St
+Mailbox #2
+Austin TX 78704
+
+Please ensure the following information is included so your return can be processed:
+
+* Your Order number if known (appears on the top of the confirmation email)
+* Your name and address
+* A description of the item you are returning and a reason for the return
+
+### We are not responsible for loss or damage caused by events beyond our reasonable control
+If we fail to comply with these terms as a result of any event that is beyond our reasonable control (for example, but not limited to, interruption or failure of utility service, epidemics, pandemics, any law or any action taken by a government or public authority, including without limitation imposing an export or import restriction, quota or prohibition), we will not be responsible for any loss or damage you suffer as a result. 
 
 ## Indemnity
 
