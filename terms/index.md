@@ -7,7 +7,7 @@ description: All the terms that you agree to when you sign up for a FCC product.
 
 *Last updated: September 01, 2023*
 
-The website fc.club is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
+Welcome to fc.club - this website is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
 
 By accessing this website, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. These Terms apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content. If you do not agree with the Terms, do not use the website or provide us with your information.
 
@@ -19,9 +19,7 @@ By accessing this website, you agree to be bound by these Terms of Service ("Ter
 
 We may update these Terms and may do so without notice to you. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
-**When you use our Services, and or purchase any goods through the website, you are agreeing to the latest Terms.** There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.**
-
-If you violate any of the Terms, we may terminate your account.
+**When you use our Services, and or purchase any goods through the website, you are agreeing to the latest Terms.** There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.** If you violate any of the Terms, we may terminate your account.
 
 ## Account Terms
 
@@ -74,7 +72,7 @@ If you violate any of the Terms, we may terminate your account.
 1. All content posted on the Services must comply with U.S. copyright law.
 2. You give us a limited license to use the content posted by you in order to provide the Services to you, but we claim no ownership rights over those materials. All materials you submit to the Services remain yours.
 3. We do not pre-screen content, but we reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. You agree not to make available creations on the Service that infringe others’ intellectual property or proprietary rights. FCC reserves the right to remove creations and other material that violate FCC’s terms and policies. We respond to compliant notifications of claimed copyright infringement and have adopted and reasonably implemented a policy for terminating, in appropriate circumstances, the accounts of members who are the subject of repeated compliant notifications of claimed copyright infringement or other evidence that suggests a pattern of repeat infringement. The process for reporting or responding to notifications of claimed copyright infringement can be made available on request.
+4. You agree not to make available creations on the Service that infringe others’ intellectual property or proprietary rights. FCC reserves the right to remove creations and other material that violate FCC’s terms and policies. In accordance with the Digital Millenium Copyright Act and other applicable laws, we respond to compliant notifications of claimed copyright infringement and have adopted and reasonably implemented a policy for terminating, in appropriate circumstances, the accounts of members who are the subject of repeated compliant notifications of claimed copyright infringement or other evidence that suggests a pattern of repeat infringement. If you believe in good faith that materials posted on the Services infringe your copyright, you (or your agent) may send FCC a “Notification of Claimed Infringement” requesting that the material be removed, or access to it blocked.
 5. The Company or its licensors own all right, title, and interest in and to the Services, including all intellectual property rights therein, and you obtain no ownership rights in the Services as a result of your use. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logos or any Service logos for promotional purposes. Please [email us]({{ site.email_support }}) requests to use logos. We reserve the right to rescind any permissions if you violate these Terms.
 6. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission of the Company.
 7. We welcome your feedback on FCC products and services, including any early-access, beta, or test features to which you’ve been given access, and your help in identifying any problems, bugs, and defects. You agree that any suggestions, comments, ideas, bug reports, or suggested improvements that you provide to us will be fully owned by us so that we can use them to improve FCC and thereby better help the community of members.
