@@ -96,6 +96,10 @@ We design our Services with care, based on our own experience and the experience
 
 We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don’t guarantee completely error-free Services.
 
+## Indemnity
+
+You will indemnify us from all losses and liabilities, including legal fees, that arise from these terms or relate to your use of FCC. We reserve the right to exclusive control over the defense of a claim covered by this clause. If we use this right, then you will help us in our defense. Your obligation to indemnify under this clause also applies to our subsidiaries, affiliates, officers, directors, employees, agents, and third-party service providers.
+
 ## Warranty disclaimer
 
 FCC is provided “as is” and without warranty of any kind. Any warranty of merchantability, fitness for a particular purpose, non-infringement, and any other warranty, whether express or implied, is excluded and disclaimed to the greatest extent permitted by law. The disclaimers of warranty under this clause also apply to our subsidiaries, affiliates, and third-party service providers.
