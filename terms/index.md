@@ -9,7 +9,7 @@ description: All the terms that you agree to when you sign up for a FCC product.
 
 The website fc.club is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
 
-By accessing this website, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. These Terms apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content. If you do not agree with the Terms, do not use the website. 
+By accessing this website, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. These Terms apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content. If you do not agree with the Terms, do not use the website or provide us with your information.
 
 * When we say “Company”, “we”, “our”, or “us” in this document, we are referring to FCC.
 
@@ -30,6 +30,7 @@ If you violate any of the Terms, we may terminate your account.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
 4. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
 5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+6. By purchasing products or services you represent that you have reached the age of majority (which in most states is 18 years old) and have the legal capacity to enter into a contract. If you are under the age of majority or cannot lawfully enter into a contract, you must have your parent or guardian review these Terms and the Privacy Policy, and register or place an order on your behalf.
 
 ## Payment, Refunds, and Plan Changes
 
@@ -97,6 +98,10 @@ You’ll still be able to see someone's account, posts and comments after you re
 We design our Services with care, based on our own experience and the experiences of customers who share their time and feedback. However, there is no such thing as a service that pleases everybody. We make no guarantees that our Services will meet your specific requirements or expectations.
 
 We also test all of our features extensively before shipping them. As with any software, our Services inevitably have some bugs. We track the bugs reported to us and work through priority ones, especially any related to security or privacy. Not all reported bugs will get fixed and we don’t guarantee completely error-free Services.
+
+## COPPA
+
+The Children's Online Privacy Protection Act ("COPPA") requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under 13. We do not knowingly collect or solicit personally identifiable information from children under 13. If you are a child under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn we have collected personal information from a child under 13, we will delete that information as quickly as possible. 
 
 ## Indemnity
 
