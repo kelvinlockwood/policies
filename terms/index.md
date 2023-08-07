@@ -154,7 +154,7 @@ FCC accepts returns of unworn, unwashed, undamaged or defective merchandise purc
 
 Returns made within 30 days of the order delivery date will be issued a refund to the original form of payment. Refunds will be issued within 2 weeks of the completion of FCC’s return process. This process may take several weeks to complete.
 
-### Returns Process
+### Returns process
 To return items, please send to:
 
 FCC
