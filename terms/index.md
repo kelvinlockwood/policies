@@ -21,7 +21,7 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 
 **When you use our Services, and or purchase any goods through the website, you are agreeing to the latest Terms.** There may be times where we do not exercise or enforce a right or provision of the Terms; however, that does not mean we are waiving that right or provision. **These Terms do contain a limitation of our liability.** If you violate any of the Terms, we may terminate your account.
 
-Via fc.club, FCC operates a membership service and online store. The terms and conditions that are relevant to the supply of physical goods can be found in the [Online Store](#online-store) section.
+*Via fc.club, FCC operates a membership service and online store. The terms and conditions that are relevant to the supply of physical goods can be found in the [Online Store](#online-store) section of these Terms.*
 
 ## Account Terms
 
