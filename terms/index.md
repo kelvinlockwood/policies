@@ -34,7 +34,7 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 
 ## Payment, Refunds, and Plan Changes
 
-1. Our membership service is billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a quarterly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
+1. Our Membership service is billed on a subscription basis ("Subscription(s)"). Billing occurs at the beginning of the Membership cycle and provides access for one quarter or one year after that, as applicable.
 2. At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or FCC cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting FCC customer support team.
 3. A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide FCC with accurate and complete billing information including full name, address, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize FCC to charge all Subscription fees incurred through your account to any such payment instruments.
 4. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
