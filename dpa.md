@@ -73,7 +73,6 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 3.3. **Notice, Consent, and Other Authorizations.** Customer agrees that the Personal Information it collects shall be in accordance with Data Protection Laws, including all legally required consents, bases of processing, approvals, and authorizations. Upon FCC’s request, Customer shall provide all information necessary to demonstrate compliance with these requirements.
 
 ‍
-
 4\. FCC’s Obligations as a Processor
 ----------------------------------------
 
@@ -252,13 +251,11 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * All database servers are isolated inside virtual private networks, and accessible only by key personnel via multi-factor authentication.
 * All access to production environments is logged, and access can be immediately revoked.
 
-
 ##### Protection from Data Loss and Corruption
 
 * All data operations are mirrored to a redundant secondary database.
 * All data is backed up on a daily basis and stored on highly-redundant storage media in multiple availability zones.
 * All data is encrypted at rest using Amazon’s EBS encryption functionality
-
 
 ##### Application Level Security
 
@@ -269,20 +266,17 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * All code changes to our applications require code reviews via an enforced code review process.
 * Automated code and dependency analysis tools are in place to identify emergent security issues.
 * Regular application security penetration tests are conducted by different vendors. These tests include high-level server penetration tests across various parts of our platform (i.e. Dashboard, Designer, Editor, Hosted Sites), as well as security-focused source code reviews.
-
 ‍
 ##### Internal Protocol & Training
 
 * All new employees are given security and data privacy training, tailored to their job functions.
 * All employees undergo regular security best practices and data privacy training.
 * All developers undergo advanced application security and privacy training.
-* All new product changes and improvements undergo a data privacy assessment before any projects proceeds to implementation.
+* All new product changes and improvements undergo a data privacy assessment before proceeding to implementation.
 ‍
-
 ##### Subprocessor Controls
 
 * FCC only uses cloud providers that have confirmed they have implemented and maintain Security Measures in compliance with Article 32 of the GDPR, in storing and keeping secure Personal Information.
-
 
 ##### Technical and Organisational Measures to provide assistance to the Controller
 
@@ -290,7 +284,6 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * FCC will not disclose Personal Information to any third party without Customer’s consent. If requested or required by a competent governmental authority to disclose the Personal Information, to the extent legally permissible and practicable, FCC will provide Customer with sufficient prior written notice in order to permit Customer the opportunity to oppose any such disclosure.
 
 ‍
-
 #### SCHEDULE 3
 
 Cross Border Data Transfers.
@@ -321,7 +314,6 @@ Cross Border Data Transfers.
 
 **1.3** **UK International Data Transfer Agreement**. The parties agree that the UK International Data Transfer Agreement will apply to Personal Information that is transferred via the Service from the United Kingdom, either directly or via onward transfer, to any country or recipient outside of the United Kingdom that is: (a) not recognized by the competent United Kingdom Regulator or governmental body for the United Kingdom as providing an adequate level of protection for Personal Information. _For data transfers from the United Kingdom that are subject to the UK International Data Transfer Agreement, the UK International Data Transfer Agreement will be deemed entered into (and incorporated into this DPA by this reference) and completed as set forth in Schedule 4._
 
-‍
 
 #### SCHEDULE 4
 
@@ -399,12 +391,10 @@ Mandatory Clauses
 Part 2: Mandatory Clauses of the Approved Addendum, being the template Addendum B.1.0 issued by the ICO and laid before Parliament in accordance with s119A of the Data Protection Act 2018 on 2 February 2022, as it is revised under Section ‎18 of those Mandatory Clauses.
 
 ‍
-
 #### SCHEDULE 5
 
 Jurisdiction Specific Terms
 ---------------------------
-
 
 ##### 1\. California
 
