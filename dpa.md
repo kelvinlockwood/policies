@@ -54,7 +54,6 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 
 1.21. “**_Website Content_**” means any content that Customer submits, posts, displays, or otherwise makes available on or via the Service
 
-‍
 
 2\. Relationship of the Parties
 -------------------------------
@@ -63,9 +62,8 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 
 2.2. **FCC as a Controller of Customer Account Data**. The parties hereby agree that, with regard to the processing of Customer Account Data, FCC is an independent Controller, not a joint Controller with Customer. FCC will process Customer Account Data as a Controller: (a) to manage the relationship with Customer; (b) to carry out FCC’s core business operations, such as accounting and filing taxes; (c) to detect, prevent, or investigate Data Breaches, fraud, and other abuse or misuse of the Service; (d) to comply with applicable law; and (e) as otherwise permitted under Data Protection Law and in accordance with this DPA, the Agreement, and FCC’s Privacy policy.
 
-‍
 
-**3\. Customer Obligations**
+3\. Customer Obligations
 ----------------------------
 
 3.1. **Instructions.** Customer instructs FCC, when acting as a Processor, to Process Customer Personal Information to provide the Service. Customer warrants that the instructions it provides to FCC pursuant to this DPA will comply with Data Protection Laws.
@@ -99,14 +97,12 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 
 4.10. **Disclosure to Third Parties.** Except as expressly provided in this DPA, FCC will not disclose Customer Personal Information to any third party without Customer’s consent. If requested or required by a competent governmental authority to disclose Customer Personal Information, to the extent legally permissible and practicable, FCC will provide Customer with sufficient prior written notice in order to permit Customer the opportunity to oppose any such disclosure.
 
-‍
 
 5\. Use of Subprocessors
 ------------------------
 
 Customer hereby agrees and gives its general authorization for FCC, when acting as a Processor, to engage new Subprocessors in connection with the processing of Customer Personal Information. A list of FCC’s current Subprocessors is located at [FCC.com/legal/subprocessors](http://FCC.com/legal/subprocessors). Customer must sign up at the aforementioned URL to receive email notifications concerning the addition of new Subprocessors. Customer may reasonably object to the addition of any new Subprocessor within 15 calendar days of receiving such email notification, in which case FCC will use reasonable efforts to make a change in the Service or recommend a commercially reasonable change to avoid processing by such Subprocessor. If FCC is unable to provide an alternative, Customer may terminate the Service and shall pay FCC any fees or expenses not yet paid for all services provided pursuant to any Agreement. If Customer fails to sign up for these email notifications, Customer shall be deemed to have waived its right to object to the newly added Subprocessor(s).
 
-‍
 
 6\. Audit
 ---------
@@ -118,7 +114,6 @@ Customer hereby agrees and gives its general authorization for FCC, when acting 
 6.3. **Confidentiality**. All information obtained during any such request for information or audit will be considered FCC’s Confidential Information under the Agreement and this DPA. The results of the inspection and all information reviewed during such inspection will be deemed FCC’s Confidential Information. The third party auditor may only disclose to Customer specific violations of this DPA, if any, and the basis for such findings, and shall not disclose any of the records or information reviewed during the inspection.
 
 ‍
-
 7\. Transfers Outside of EEA, UK, and Switzerland
 -------------------------------------------------
 
@@ -126,28 +121,24 @@ To the extent Customer’s use of the Service requires an onward transfer mechan
 
 _If Schedule 3 applies to Customer’s use of the Service, then, if applicable, under the order of precedence, by entering into this DPA, the Parties are deemed to be signing such EU Standard Contractual Clauses, including each of its applicable Annexes._
 
-‍
 
 8\. Jurisdiction Specific Terms
 -------------------------------
 
 To the extent FCC processes Personal Information originating from and protected by Data Protection Laws in one of the jurisdictions listed in Schedule 5 (Jurisdiction Specific Terms), the terms specified in Schedule 5, with respect to the applicable jurisdiction(s), will apply.
 
-‍
 
 9\. Obligations Post-Termination
 --------------------------------
 
 Termination or expiration of this DPA shall not discharge the Parties from their obligations that by their nature may reasonably be deemed to survive the termination or expiration of this DPA.
 
-‍
 
 10\. Limitation of Liability
 ----------------------------
 
 This DPA shall be subject to the limitations of liability agreed between Customer and FCC in the Agreement and such limitation shall apply in aggregate for all claims under the Agreement and DPA.
 
-‍
 
 11\. Severability
 -----------------
@@ -155,7 +146,6 @@ This DPA shall be subject to the limitations of liability agreed between Custome
 Any provision of this DPA that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invaliding the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. The Parties will attempt in good faith to agree upon a valid and enforceable provision that is a reasonable substitute and shall incorporate such substitute provision into this Agreement.
 
 ‍
-
 12\. Updates
 ------------
 
@@ -163,14 +153,10 @@ FCC may update the terms of the DPA from time to time; provided, however, FCC wi
 
 ‍
 
-‍
-
 #### SCHEDULE 1
 
 Description of Transfer and Processing
 --------------------------------------
-
-‍
 
 ### A. List of Parties
 
@@ -182,7 +168,6 @@ Contact Details:_ Specified in the signature block above._Activities relevant to
 **Data importer:**_Name:_ FCC, provider of the Service._Contact Details: 411 W Monroe St, Mailbox #2, Austin, TX 78704. _Activities relevant to the data transfer:_ Provisioning of the Service._Role:_ Controller and/or Processor depending on the type of processing as set forth below.
 
 ‍
-
 ### B. Description of Transfer
 
 **_Categories of data subjects whose personal data is transferred:_**
@@ -253,7 +238,6 @@ Module One (Controller to Controller), Module Two (Controller to Processor), and
 
 * Ireland’s Data Protection Commissioner.**_‍_**
 
-‍
 
 #### SCHEDULE 2
 
@@ -268,7 +252,6 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * All database servers are isolated inside virtual private networks, and accessible only by key personnel via multi-factor authentication.
 * All access to production environments is logged, and access can be immediately revoked.
 
-‍
 
 ##### Protection from Data Loss and Corruption
 
@@ -276,7 +259,6 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * All data is backed up on a daily basis and stored on highly-redundant storage media in multiple availability zones.
 * All data is encrypted at rest using Amazon’s EBS encryption functionality
 
-‍
 
 ##### Application Level Security
 
@@ -289,30 +271,23 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * Regular application security penetration tests are conducted by different vendors. These tests include high-level server penetration tests across various parts of our platform (i.e. Dashboard, Designer, Editor, Hosted Sites), as well as security-focused source code reviews.
 
 ‍
-
 ##### Internal Protocol & Training
 
 * All new employees are given security and data privacy training, tailored to their job functions.
 * All employees undergo regular security best practices and data privacy training.
 * All developers undergo advanced application security and privacy training.
 * All new product changes and improvements undergo a data privacy assessment before any projects proceeds to implementation.
-
 ‍
 
 ##### Subprocessor Controls
 
 * FCC only uses cloud providers that have confirmed they have implemented and maintain Security Measures in compliance with Article 32 of the GDPR, in storing and keeping secure Personal Information.
 
-‍
 
 ##### Technical and Organisational Measures to provide assistance to the Controller
 
-* FCC has a dedicated security and privacy team to respond to Controller requests and inquiries. Taking into account the nature of the Processing and to the extent reasonably possible, FCC will assist Controller in fulfilling its obligations in relation to Data Subject requests and compliance obligations under applicable Data Protection Laws. This team can be contacted at [privacy@FCC.com](mailto:privacy@FCC.com).
+* FCC has a dedicated security and privacy team to respond to Controller requests and inquiries. Taking into account the nature of the Processing and to the extent reasonably possible, FCC will assist Controller in fulfilling its obligations in relation to Data Subject requests and compliance obligations under applicable Data Protection Laws. This team can be contacted at [mail@fc.club](mailto:mail@fc.club).
 * FCC will not disclose Personal Information to any third party without Customer’s consent. If requested or required by a competent governmental authority to disclose the Personal Information, to the extent legally permissible and practicable, FCC will provide Customer with sufficient prior written notice in order to permit Customer the opportunity to oppose any such disclosure.
-
-‍
-
-‍
 
 ‍
 
@@ -324,19 +299,12 @@ Cross Border Data Transfers.
 **1.1 Order of Precedence.** In the event the Service is covered by more than one Transfer Mechanism, the transfer of Personal Information will be subject to a single Transfer Mechanism in accordance with the following order of precedence: (a) Any valid successor to the EU-US and Swiss-US Privacy Shield Framework, including the Trans-Atlantic Data Privacy Framework, if enacted, provided FCC is certified under the new framework; (b) the EU Standard Contractual Clauses as set forth in Section 1.2 (EU Standard Contractual Clauses) of this Schedule 3; (c) the UK International Data Transfer Agreement as set forth in Section 1.3 (UK International Data Transfer Agreement) of this Schedule 3; and, if neither (a) nor (b) nor (c) is applicable, then (d) other applicable data Transfer Mechanisms permitted under Data Protection Law.
 
 ‍**1.2 EU Standard Contractual Clauses**. The parties agree that the EU Standard Contractual Clauses will apply to Personal Information that is transferred via the Service from the EEA or Switzerland, either directly or via onward transfer, to any country or recipient outside the EEA or Switzerland that is: (a) not recognized by the European Commission (or, in the case of transfers from Switzerland, the competent authority for Switzerland) as providing an adequate level of protection for Personal Information. _For data transfers from the EEA that are subject to the EU Standard Contractual Clauses, the EU Standard Contractual Clauses will be deemed entered into (and incorporated into this DPA by this reference) and completed as follows:  
-_‍
 
 (a) Module One (Controller to Controller) of the EU Standard Contractual Clauses will apply where FCC is processing Customer Account Data;
 
-‍
-
 (b) Module Two (Controller to Processor) of the EU Standard Contractual Clauses will apply where Customer is a Controller of Customer Personal Information and FCC is processing Customer Personal Information;
 
-‍
-
 (c) Module Three (Processor to Processor) of the EU Standard Contractual Clauses will apply where Customer is a Processor of Customer Personal Information and FCC is processing Customer Personal Information;
-
-‍
 
 (d) For each Module, where applicable:
 
@@ -348,15 +316,10 @@ _‍
 
 (e) Schedule 1 of this DPA serves as Annex I of the EU Standard Contractual Clauses
 
-‍
-
 (f) Schedule 2 (Technical and Organizational Security Measures) of this DPA serves as Annex II of the EU Standard Contractual Clauses.
 
-‍
 
 **1.3** **UK International Data Transfer Agreement**. The parties agree that the UK International Data Transfer Agreement will apply to Personal Information that is transferred via the Service from the United Kingdom, either directly or via onward transfer, to any country or recipient outside of the United Kingdom that is: (a) not recognized by the competent United Kingdom Regulator or governmental body for the United Kingdom as providing an adequate level of protection for Personal Information. _For data transfers from the United Kingdom that are subject to the UK International Data Transfer Agreement, the UK International Data Transfer Agreement will be deemed entered into (and incorporated into this DPA by this reference) and completed as set forth in Schedule 4._
-
-‍
 
 ‍
 
@@ -366,8 +329,6 @@ UK International Data Transfer Agreement
 ----------------------------------------
 
 ‍If applicable, this UK Addendum to the EU Standard Contractual Clauses International Transfer Agreement (“**_Addendum_**”) has been issued by the Information Commissioner for Parties making Restricted Transfers. The Information Commissioner considers that it provides Appropriate Safeguards for Restricted Transfers when it is entered into as a legally binding contract
-
-‍
 
 ### Part 1: Tables
 
@@ -402,13 +363,11 @@ Attn: Privacy Counsel
 Contact details including email: mail@fc.club
 
 ‍
-
 ##### Table 2: Selected SCCs, Modules and Selected Clauses
 
 Addendum EU SCCs
 
 The version of the Approved EU SCCs which this Addendum is appended to, detailed below, including the Appendix Information:
-
 ‍
 
 ##### Table 3: Appendix Information
@@ -424,7 +383,6 @@ Annex II: Technical and organisational measures including technical and organisa
 Annex III: List of Subprocessors (Modules 2 and 3 only): As set out in Schedule 2 of this DPA.
 
 ‍
-
 ##### Table 4: Ending this Addendum when the Approved Addendum Changes
 
 Ending this Addendum when the Approved Addendum changes
@@ -442,14 +400,11 @@ Part 2: Mandatory Clauses of the Approved Addendum, being the template Addendum 
 
 ‍
 
-‍
-
 #### SCHEDULE 5
 
 Jurisdiction Specific Terms
 ---------------------------
 
-‍
 
 ##### 1\. California
 
@@ -458,7 +413,6 @@ To the extent that the California Consumer Privacy Act of 2018 (“**_CCPA_**”
 FCC certifies that it understands these restrictions set out in this section and will comply with them.
 
 ‍
-
 ##### 2\. Switzerland
 
 2.1 The definition of “Data Protection Law” includes the Swiss Federal Act on Data Protection, as revised (“FADP”).
@@ -475,7 +429,6 @@ FCC certifies that it understands these restrictions set out in this section and
 4.  in Clause 18(b) of the EU Standard Contractual Clauses, disputes will be resolved before the courts of Switzerland.
 
 ‍
-
 ##### 3\. United Kingdom (UK)
 
 References in this Addendum to GDPR will to that extent be deemed to be references to the corresponding laws of the United Kingdom (including the UK GDPR and Data Protection Act 2018).
