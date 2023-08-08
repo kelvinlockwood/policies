@@ -27,10 +27,10 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 
 1. A Member is any individual who is paying recurring Subscription fees for a FCC Membership, for personal, non-commercial use.
 1. You are responsible for maintaining the security of your Membership account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md), and you may not permit any of your users to do so, either.
-3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
-4. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your Membership account.
-5. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+2. You can manage all aspects of your Membership account's Subscription; including updating your billing information and cancelling your Membership account.
+3. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
+4. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
+5. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your Membership account.
 6. By purchasing products or services you represent that you have reached the age of majority (which in most states is 18 years old) and have the legal capacity to enter into a contract. If you are under the age of majority or cannot lawfully enter into a contract, you must have your parent or guardian review these Terms and the Privacy Policy, and register or place an order on your behalf.
 
 ## Payment, Refunds, and Plan Changes
