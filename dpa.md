@@ -387,9 +387,9 @@ Parties' details
 
 Customer
 
-Full legal name: FCC, Inc.  
+Full legal name: FCC.  
   
-Main address (if a company registered address): 398 11th St. Fl 2, San Francisco, California, 94103, USA
+Main address: 411 W Monroe St, Mailbox #2, Austin, TX 78704
 
 Key Contact
 
@@ -399,7 +399,7 @@ Contact details including email: email address provided by Customer
 
 Attn: Privacy Counsel  
   
-Contact details including email: privacy@FCC.com
+Contact details including email: mail@fc.club
 
 ‍
 
