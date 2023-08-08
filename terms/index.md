@@ -41,7 +41,7 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 4. If you are upgrading from a slog plan to a sweep plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For downgrades in plan level, the new rate starts from the next billing cycle.
 5. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. Otherwise, you are responsible for payment of all taxes, levies, or duties.
 6. Should automatic billing fail to occur for any reason, FCC will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
-7. We process Membership refunds according to our [Fair and Simple Refund policy](../refund/index.md).
+7. We process Membership refunds according to our [Membership refund policy](../refund/index.md).
 
 ## Cancellation and Termination
 
