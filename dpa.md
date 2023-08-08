@@ -1,13 +1,11 @@
 Data Processing Addendum
 ------------------------
 
-_Effective date: October 14, 2022_‍
+*Effective date: September 01, 2023*
 
-‍
 
 This FCC Data Processing Addendum (this "DPA") forms part of, and is subject to the provisions of, the Agreement. This DPA will apply to the extent Customer is subject to relevant Data Protection Laws.
 
-‍
 
 1\. Definitions
 ---------------
