@@ -153,7 +153,6 @@ FCC may update the terms of the DPA from time to time; provided, however, FCC wi
 ‍
 
 #### SCHEDULE 1
-
 Description of Transfer and Processing
 --------------------------------------
 
@@ -239,7 +238,6 @@ Module One (Controller to Controller), Module Two (Controller to Processor), and
 
 
 #### SCHEDULE 2
-
 Technical and Organisational Measures Including Technical and Organisational Measures to Ensure the Security of the Data
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -266,6 +264,7 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * All code changes to our applications require code reviews via an enforced code review process.
 * Automated code and dependency analysis tools are in place to identify emergent security issues.
 * Regular application security penetration tests are conducted by different vendors. These tests include high-level server penetration tests across various parts of our platform (i.e. Dashboard, Designer, Editor, Hosted Sites), as well as security-focused source code reviews.
+
 ‍
 ##### Internal Protocol & Training
 
@@ -285,7 +284,6 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 
 ‍
 #### SCHEDULE 3
-
 Cross Border Data Transfers.
 ----------------------------
 
@@ -316,7 +314,6 @@ Cross Border Data Transfers.
 
 
 #### SCHEDULE 4
-
 UK International Data Transfer Agreement
 ----------------------------------------
 
@@ -392,7 +389,6 @@ Part 2: Mandatory Clauses of the Approved Addendum, being the template Addendum 
 
 ‍
 #### SCHEDULE 5
-
 Jurisdiction Specific Terms
 ---------------------------
 
