@@ -119,7 +119,7 @@ If we are unable to accept your order, we will inform you of this and will not c
 We will assign an order number to your order and tell you what it is when we accept your order. It will help us if you can tell us the order number whenever you contact us about your order.
 
 ### Please be mindful of our global nature
-Flamingo Cricket Club has a global outlook and audience, so we accept orders from, and deliver to, addresses outside of the US. However, we source and ship our products from various locations around the world and this means some of the products listed in our online store may not be available to specific regions and countries.
+FCC has a global outlook and audience, so we accept orders from, and deliver to, addresses outside of the US. However, we source and ship our products from various locations around the world and this means some of the products listed in our online store may not be available to specific regions and countries.
 
 ### Import duties and taxes
 When ordering products for delivery you may be subject to import duties and taxes, which are levied once the products reach the specified delivery location. Any additional charges for customs and/or import clearance and other handling charges must be paid by you, as we have no control over these charges. 
