@@ -60,7 +60,7 @@ We may update these Terms and may do so without notice to you. Whenever we make 
 
 1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis.
 2. We take many measures to protect and secure your data through backups, redundancies, and encryption. We enforce encryption for data transmission from the public Internet.
-3. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that FCC may process your data as described in our [Privacy Policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
+3. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that FCC may process your data as described in our [Privacy policy](../privacy/index.md) and for no other purpose. We as humans can access your data for the following reasons:
   - **To help you with support requests you make.** We’ll ask for express consent before accessing your account.
   - **On the rare occasions when an error occurs that stops an automated process partway through.** We get automated alerts when such errors occur. When we can fix the issue and restart automated processing without looking at any personal data, we do. In rare cases, we have to look at a minimum amount of personal data to fix the issue. In these rare cases, we aim to fix the root cause to prevent the errors from recurring.
   - **To safeguard FCC.** We’ll look at logs and metadata as part of our work to ensure the security of your data and the Services as a whole. If necessary, we may also access accounts as part of an [abuse report investigation](../abuse/how-we-handle/index.md).
