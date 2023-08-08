@@ -265,7 +265,7 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 * Automated code and dependency analysis tools are in place to identify emergent security issues.
 * Regular application security penetration tests are conducted by different vendors. These tests include high-level server penetration tests across various parts of our platform (i.e. Dashboard, Designer, Editor, Hosted Sites), as well as security-focused source code reviews.
 
-‍
+
 ##### Internal Protocol & Training
 
 * All new employees are given security and data privacy training, tailored to their job functions.
