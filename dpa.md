@@ -276,7 +276,7 @@ FCC has a SOC 2 Type II certification and is dedicated to the continued validati
 ‍
 ##### Subprocessor Controls
 
-* FCC only uses cloud providers that have confirmed they have implemented and maintain Security Measures in compliance with Article 32 of the GDPR, in storing and keeping secure Personal Information.
+* FCC only uses software providers that have confirmed they have implemented and maintain Security Measures in compliance with Article 32 of the GDPR, in storing and keeping secure Personal Information.
 
 ##### Technical and Organisational Measures to provide assistance to the Controller
 
@@ -399,7 +399,6 @@ To the extent that the California Consumer Privacy Act of 2018 (“**_CCPA_**”
 
 FCC certifies that it understands these restrictions set out in this section and will comply with them.
 
-‍
 ##### 2\. Switzerland
 
 2.1 The definition of “Data Protection Law” includes the Swiss Federal Act on Data Protection, as revised (“FADP”).
@@ -415,7 +414,6 @@ FCC certifies that it understands these restrictions set out in this section and
 3.  in Clause 17 (Option 1), the EU Standard Contractual Clauses will be goverened by the laws of Switzerland; and
 4.  in Clause 18(b) of the EU Standard Contractual Clauses, disputes will be resolved before the courts of Switzerland.
 
-‍
 ##### 3\. United Kingdom (UK)
 
 References in this Addendum to GDPR will to that extent be deemed to be references to the corresponding laws of the United Kingdom (including the UK GDPR and Data Protection Act 2018).
