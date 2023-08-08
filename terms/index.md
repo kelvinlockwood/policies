@@ -161,10 +161,7 @@ Returns made within 30 days of the order delivery date will be issued a refund t
 ### Returns process
 To return items, please send to:
 
-FCC
-411 W Monroe St
-Mailbox #2
-Austin TX 78704
+FCC, 411 W Monroe St, Mailbox #2, Austin, TX 78704
 
 Please ensure the following information is included so your return can be processed:
 
