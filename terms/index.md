@@ -9,7 +9,7 @@ description: All the terms that you agree to when you sign up for a FCC product.
 
 Welcome to fc.club - this website is owned and operated by FCC, a Public Benefit Corporation incorporated in Delaware, US.
 
-By accessing this website, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. These Terms apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content. If you do not agree with the Terms, do not use the website or provide us with your information.
+By accessing this website, you agree to be bound by these Terms of Service ("Terms") and our [Privacy policy](../privacy/index.md). These Terms apply to all users of the website, including browsers, vendors, customers, merchants, and or contributors of content. If you do not agree with the Terms, do not use the website or provide us with your information.
 
 * When we say “Company”, “we”, “our”, or “us” in this document, we are referring to FCC.
 
