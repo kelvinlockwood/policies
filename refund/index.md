@@ -3,7 +3,7 @@ title: Membership refund policy
 description: "We always want out Membership customers to feel happy."
 ---
 
-# A fair and simple refund policy.
+# A fair and simple refund policy
 
 ## Examples of full refunds we’d grant.
 
