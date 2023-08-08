@@ -237,6 +237,7 @@ Module One (Controller to Controller), Module Two (Controller to Processor), and
 * Ireland’s Data Protection Commissioner.**_‍_**
 
 
+
 #### SCHEDULE 2
 Technical and Organisational Measures Including Technical and Organisational Measures to Ensure the Security of the Data
 ------------------------------------------------------------------------------------------------------------------------
