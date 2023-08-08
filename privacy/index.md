@@ -7,7 +7,7 @@ description: Your privacy is important to us.
 
 *Last updated: September 01, 2023*
 
-This Privacy policy applies only to this website and the products and services offered by FCC. This website may contain links to other websites not controlled by FCC, and the policies and procedures described herein do not apply to these other websites.
+This Privacy policy applies to this website and the products and services offered by FCC. This website may contain links to other websites not controlled by FCC, and the policies and procedures described herein do not apply to these other websites.
 
 FCC is committed to meeting and exceeding all relevant international, federal, and state laws and industry guidelines regarding your personal information and how it is protected. Please note that privacy laws differ widely between countries and, within countries, between states and smaller jurisdictions. FCC will follow the strictest possible rules.
 
@@ -54,19 +54,19 @@ We’ll never sell your personal information to third parties, and we won’t us
 
 ### Billing information
 
-If you sign up for a paid FCC membership, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit FCC servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
+If you sign up for a FCC membership account, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit FCC servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
 
 ### Product interactions
 
-Content that you upload or receive or maintain in your FCC membership accounts is stored by Outseta LLC, a third-party membership management service provider. This is so you can use our products and services as intended. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
+Content that you upload or receive or maintain in your FCC membership accounts is stored by a third-party membership management service provider who we have a data processor agreement with. This is so you can use our products and services as intended. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
 
 ### Website interactions
 
-We collect information about your browsing activity for analytics and statistical purposes such as conversion rate testing and experimenting with new product designs. This includes, for example, your browser and operating system versions, your IP address, which web pages you visited and how long they took to load, and which website referred you to us. If you have an account and are signed in, these web analytics data are tied to your IP address and user account until your account is no longer active. The web analytics we use are described further in the Advertising and Cookies section. We may also log account access by full IP address for security and fraud prevention purposes, and keep this login data for as long as your account is active.
+We collect information about your browsing activity for analytics and statistical purposes such as conversion rate testing and experimenting with new product designs. This includes, for example, your browser and operating system versions, your IP address, which web pages you visited and how long they took to load, and which website referred you to us. If you have an account and are signed in, these web analytics data are tied to your IP address and user account until your account is no longer active. The web analytics we use are described further in the Cookies section. We may also log account access by full IP address for security and fraud prevention purposes, and keep this login data for as long as your account is active.
 
 ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your FCC membership accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides FCC with the spam score results; we do not have access to the evaluated information.
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your FCC membership accounts and when you fill in certain forms the reCAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human.
 
 ### Cookies
 
