@@ -58,7 +58,7 @@ If you sign up for a FCC membership account, you will be asked to provide your p
 
 ### Product interactions
 
-Content that you upload or receive or maintain in your FCC membership accounts is stored by a third-party membership management service provider who we have a data processor agreement with. This is so you can use our products and services as intended. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
+Content that you upload or receive or maintain in your FCC membership accounts is stored by a third-party membership management service provider (who we have a data processor agreement with). This is so you can use our products and services as intended. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days.
 
 ### Website interactions
 
@@ -141,7 +141,7 @@ Depending on applicable law, you may have the right to appeal our decision to de
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser.
 
-We make reasonable efforts to provide a level of security appropriate to the risk associated with the processing of your personal information. We maintain organizational, technical and administrative measures designed to protect personal information covered by this Privacy Policy against unauthorized access, destruction, loss, alteration or misuse. Personal information is only accessed by a limited number of personnel who need access to the information to perform their duties. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.
+We make reasonable efforts to provide a level of security appropriate to the risk associated with the processing of your personal information. We maintain organizational, technical and administrative measures designed to protect personal information covered by this Privacy Policy against unauthorized access, destruction, loss, alteration or misuse. Personal information is only accessed by a limited number of personnel who need access to the information to perform their duties. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. Any data transmission of information is at your own risk.
 
 ## Data retention
 
