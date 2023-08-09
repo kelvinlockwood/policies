@@ -11,8 +11,8 @@ This page provides important information about the identity, location and role o
 
 | Data Processor   | Services Provided | Corporate HQ   |
 | -----------      | -----------       |-----------     |
-|                  |                   |                |
-|                  |                   |                |
-|                  |                   |                |
-|                  |                   |                |
+| Webflow                 |  Website hosting                 |                | San Francisco, US
+| Outseta                 |  Membership management software                 | San Diego, US               |
+| Supersparks                 | Website commenting                 |                | British Columbia, Canada
+| Threads                 | Community portal               | San Francisco, US               |
 
