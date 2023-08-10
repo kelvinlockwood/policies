@@ -14,7 +14,7 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 
 1.1. “**_Affiliate_**” means an entity that directly or indirectly controls (e.g., subsidiary), is controlled by (e.g., parent), or is under common control with (e.g., sibling) such party; and the term “control” (including the terms “controlled by” and “under common control with”) means either: (a) ownership or control of more than 50% of the voting interests of the subject entity; or (b) the power to direct or cause the direction of the management and policies of an entity, whether through ownership, by contract, or otherwise.
 
-1.2. “**_Agreement_**” means any services agreement including, but not limited to, FCC’s [Terms of Service](https://FCC.com/legal/terms), a Master Subscription Agreement, or other services agreement between FCC and Customer under which the Service is provided by FCC to Customer.
+1.2. “**_Agreement_**” means any services agreement including, but not limited to, FCC’s [Terms of Service](https://github.com/kelvinlockwood/policies/blob/master/terms/index.md), a Master Subscription Agreement, or other services agreement between FCC and Customer under which the Service is provided by FCC to Customer.
 
 1.3. “**_Authorized Affiliate_**” means Customer's Affiliate(s) which (a) are subject to Data Protection Laws; (b) are permitted to use the Service pursuant to the Agreement between Customer and FCC; and (c) have not signed their own Agreement with FCC and are not "Customers" as defined under this DPA.
 
@@ -100,7 +100,7 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 5\. Use of Subprocessors
 ------------------------
 
-Customer hereby agrees and gives its general authorization for FCC, when acting as a Processor, to engage new Subprocessors in connection with the processing of Customer Personal Information. A list of FCC’s current Subprocessors is located at [FCC.com/legal/subprocessors](http://FCC.com/legal/subprocessors). 
+Customer hereby agrees and gives its general authorization for FCC, when acting as a Processor, to engage new Subprocessors in connection with the processing of Customer Personal Information. A list of FCC’s current Subprocessors is available [here](/subprocessors.md). 
 Customer must request to receive email notifications concerning the addition of new Subprocessors. Customer may reasonably object to the addition of any new Subprocessor within 15 calendar days of receiving such email notification, in which case FCC will use reasonable efforts to make a change in the Service or recommend a commercially reasonable change to avoid processing by such Subprocessor. If FCC is unable to provide an alternative, Customer may terminate the Service and shall pay FCC any fees or expenses not yet paid for all services provided pursuant to any Agreement. If Customer fails to sign up for these email notifications, Customer shall be deemed to have waived its right to object to the newly added Subprocessor(s).
 
 
@@ -229,7 +229,7 @@ Module Two (Controller to Processor), and Module Three (Processor to Processor):
 
 Module One (Controller to Controller), Module Two (Controller to Processor), and Module Three (Processor to Processor):
 
-* A list of FCC’s current Subprocessors and the subject matter of the subprocessing can be found at [FCC.com/legal/subprocessors](http://FCC.com/legal/subprocessors). FCC’s Subprocessors Process Personal Information for the term of the agreement between the Subprocessor and FCC
+* A list of FCC’s current Subprocessors and the subject matter of the subprocessing can be found [here](/subprocessors.md). FCC’s Subprocessors Process Personal Information for the term of the agreement between the Subprocessor and FCC.
 
 ### C. Competent Supervisory Authority
 
@@ -412,7 +412,7 @@ FCC certifies that it understands these restrictions set out in this section and
 
 1.  references to "Regulation (EU) 2016/679" are to be interpreted as references to the FADP;
 2.  the "competent supervisory authority" in Annex I, Part C will be the Swiss Federal Data Protection and Information Commissioner;
-3.  in Clause 17 (Option 1), the EU Standard Contractual Clauses will be goverened by the laws of Switzerland; and
+3.  in Clause 17 (Option 1), the EU Standard Contractual Clauses will be governed by the laws of Switzerland; and
 4.  in Clause 18(b) of the EU Standard Contractual Clauses, disputes will be resolved before the courts of Switzerland.
 
 ##### 3\. United Kingdom (UK)
