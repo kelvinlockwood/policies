@@ -9,7 +9,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Refund policy](refund/index.md)
 * [Use Restrictions policy](abuse/index.md)
 * [Processors](/subprocessors.md)
-* 
+* [Data Processing Addendum](/dpa.md)
 
 
 ## A Note About the Email Addresses
