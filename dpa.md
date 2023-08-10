@@ -14,7 +14,7 @@ Capitalized terms that are used but not defined in this DPA have the meanings gi
 
 1.1. “**_Affiliate_**” means an entity that directly or indirectly controls (e.g., subsidiary), is controlled by (e.g., parent), or is under common control with (e.g., sibling) such party; and the term “control” (including the terms “controlled by” and “under common control with”) means either: (a) ownership or control of more than 50% of the voting interests of the subject entity; or (b) the power to direct or cause the direction of the management and policies of an entity, whether through ownership, by contract, or otherwise.
 
-1.2. “**_Agreement_**” means any services agreement including, but not limited to, FCC’s [Terms of Service](../policies/blob/master/terms/index.md), a Master Subscription Agreement, or other services agreement between FCC and Customer under which the Service is provided by FCC to Customer.
+1.2. “**_Agreement_**” means any services agreement including, but not limited to, FCC’s [Terms of Service](https://github.com/kelvinlockwood/policies/blob/master/terms/index.md), a Master Subscription Agreement, or other services agreement between FCC and Customer under which the Service is provided by FCC to Customer.
 
 1.3. “**_Authorized Affiliate_**” means Customer's Affiliate(s) which (a) are subject to Data Protection Laws; (b) are permitted to use the Service pursuant to the Agreement between Customer and FCC; and (c) have not signed their own Agreement with FCC and are not "Customers" as defined under this DPA.
 
