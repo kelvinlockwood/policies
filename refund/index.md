@@ -1,6 +1,6 @@
 ---
 title: Membership refund policy
-description: "We always want out Membership customers to feel happy."
+description: "We always want our Membership customers to feel happy."
 ---
 
 # A fair and simple refund policy
@@ -16,6 +16,6 @@ description: "We always want out Membership customers to feel happy."
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what's up, and we'll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. Contact us, tell us what's up, and we'll work with you to make sure you’re happy.
 
 **This policy applies to FCC's Membership offering.
