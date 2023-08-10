@@ -8,7 +8,8 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Cancellation policy](cancellation/index.md)
 * [Refund policy](refund/index.md)
 * [Use Restrictions policy](abuse/index.md)
-
+* [Processors](/subprocessors.md)
+* 
 
 
 ## A Note About the Email Addresses
