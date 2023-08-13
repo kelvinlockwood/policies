@@ -4,12 +4,12 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 
 * [Terms of Service](terms/index.md)
 * [Privacy policy](privacy/index.md)
-* [California Resident Notice at Collection](privacy/regulations/ccpa/index.md)
-* [Cancellation policy](cancellation/index.md)
-* [Refund policy](refund/index.md)
-* [Use Restrictions policy](abuse/index.md)
-* [Processors](/subprocessors.md)
-* [Data Processing Addendum](/dpa.md)
+* [California Resident Notice at Collection - P](privacy/regulations/ccpa/index.md)
+* [Cancellation policy - T](cancellation/index.md)
+* [Refund policy - T](refund/index.md)
+* [Use Restrictions policy - T P](abuse/index.md)
+* [Processors - P](/subprocessors.md)
+* [Data Processing Addendum - T](/dpa.md)
 
 
 ## A Note About the Email Addresses
